@@ -16,11 +16,10 @@ Prerequisites
 Python 3.x
 
 Running the Program
-Clone the repository:
-git clone https://github.com/yourusername/medical-diagnosis-system.git
+Clone the repository
+:https://github.com/BRACKCK/hs.git
 
 Navigate to the project directory:
-cd medical-diagnosis-system
+cd hs
 
-Run the script:
-python diagnosis_system.py
+
